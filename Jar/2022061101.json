@@ -2126,7 +2126,7 @@
 {"name":"Mao","url":"https://www.mtosz.com/m3u8.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"盘古json","url":"https://json.pangujiexi.com:12345/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"夜幕","url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-{"name":"大熊影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=","t":303},
+//{"name":"大熊影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=","t":303},
 {"name":"高清解析1","type":0,"url":"https://titan.mgtv.com.jumi.tv/player/?url="},
 {"name":"高清解析2","type":0,"url":"https://dmku.dijiaxia.com/?url="},
 {"name":"高清解析3","type":0,"url":"https://jx.ysgc.xyz/?url="},
